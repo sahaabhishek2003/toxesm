@@ -1,0 +1,8 @@
+torch
+fair-esm
+pandas
+scikit-learn
+xgboost
+tqdm
+biopython
+joblib
